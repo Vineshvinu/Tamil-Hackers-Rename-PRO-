@@ -38,7 +38,7 @@ class mr(object):
 │
 ├⚙️ Eɴɢɪɴᴇ : Yt-dlp
 │
-╰─[☣ 𝙱𝚢 <b><u>@THM_OTT<b><u> ☣]
+╰─[ <b><u>@THM_OTT<b><u> ]
 
     ABOUT_TXT = """
 ╭───────────⍟
